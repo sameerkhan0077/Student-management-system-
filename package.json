@@ -1,0 +1,18 @@
+{
+  "name": "sms",
+  "version": "1.0.0",
+  "description": "we are creating this  package for  \u001b[Dexpress training",
+  "main": "app.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "sameer khan",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mongoose": "^7.4.3",
+    "morgan": "^1.10.0",
+    "nodemodule": "^0.3.0"
+  }
+}

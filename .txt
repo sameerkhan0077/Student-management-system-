@@ -1,0 +1,58 @@
+[
+    {
+        "marks": 50,
+        "name": "aziz",
+        "father": "k.khan",
+        "email": "aziz@gmail.com",
+        "pincode":341303,
+        "batch": "Javascript",
+        "address": "butan",
+        "mobile": 786086086,
+        "age":32
+        },
+        {
+        "marks": 75,
+        "name": "sameer",
+        "father": "s.khan",
+        "email": "sameer@gmail.com",
+        "pincode":341303,
+        "batch": "nodejs",
+        "address": "jaipur",
+        "mobile": 7014101046,
+        "age":23
+        },
+        
+    {
+        "marks": 70,
+        "name": "nittu",
+        "father": "n.khan",
+        "email": "nittu@gmail.com",
+        "batch": "Javascript",
+        "address": "shaudi",
+        "pincode":302012,
+        "mobile": 6365987452,
+        "age":40
+    },
+    {
+        "marks": 90,
+        "name": "sanif",
+        "father": "s.khan",
+        "email": "sanif@gmail.com",
+        "batch": "Javascript",
+        "address": "jaipur",
+        "pincode":341302,
+        "mobile": 7014101018,
+        "age":30
+        },
+    {
+        "marks": 40,
+        "name": "parvez",
+        "father": "a.khan",
+        "email": "parvez@gmail.com",
+        "batch": "Javascript",
+        "address": "jaipur",
+        "pincode":341302,
+        "mobile": 9521483535,
+        "age":35
+    }
+]
